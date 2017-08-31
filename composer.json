@@ -6,16 +6,10 @@
     "homepage": "http://developers.google.com/api-client-library/php",
     "license": "Apache-2.0",
     "minimum-stability":"dev",
-    "repositories": [
-      {
-        "url": "https://github.com/gnosis7bit/google-php-apiclient-services",
-        "type": "git"
-      }
-    ],
     "require": {
         "php": ">=5.4",
         "google/auth": "^1.0",
-        "google/apiclient-services": "dev-gnosisfix",
+        "gnosis7bit/gnosis-google-apiclient-services": "~0.22",
         "firebase/php-jwt": "~2.0|~3.0|~4.0|~5.0",
         "monolog/monolog": "^1.17",
         "phpseclib/phpseclib": "~0.3.10|~2.0",
