@@ -31,10 +31,5 @@
         "classmap": [
             "src/Google/Service/"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        }
     }
 }
