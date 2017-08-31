@@ -12,7 +12,7 @@
         "name": "google-php-apiclient-services",
         "version": "1.0",
         "source": {
-          "url": "https://github.com/gnosis7bit/google-php-apiclient-services", //git url
+          "url": "https://github.com/gnosis7bit/google-php-apiclient-services",
           "type": "git",
           "reference": "master"
         }
